@@ -1,0 +1,42 @@
+main {
+    margin: 25px;
+    background-color: midnightblue;
+    color: aliceblue;
+    text-align: center;
+    border-bottom: blueviolet;
+    font-size: 1.75em;
+    display: block;
+    justify-content: left;
+}
+
+head {
+    color: darkslateblue;
+}
+
+body {
+    background-color: dimgrey;
+    color: darkslateblue;
+    display: flow;
+    justify-content: left;
+}
+
+nav a {
+    display: flow;
+    padding: 15px;
+    padding-bottom: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.75em;
+    color: steelblue;
+}
+
+nav a:hover {
+    color: darkslateblue;
+    font-size: 2em;
+    transition: .75s;
+    text-decoration: blueviolet;
+}
+
+div {
+    text-align: center;
+}
